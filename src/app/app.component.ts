@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'redwanEngineering';
+  length=100;
+  b=50;
 }
+
